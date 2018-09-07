@@ -16,7 +16,7 @@ if (height === 70)
 }
 else
 {
-  console.log ("Expected height to be is 74")
+  console.log ("Expected height to be is 70")
 }
 // Don't worry about this
 module.exports = { name, height
